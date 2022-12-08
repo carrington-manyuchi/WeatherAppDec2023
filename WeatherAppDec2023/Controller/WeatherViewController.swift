@@ -1,19 +1,22 @@
 //
-//  ViewController.swift
+//  WeatherViewController.swift
 //  WeatherAppDec2023
 //
 //  Created by Carrington Tafadzwa Manyuchi on 2022/12/08.
 //
 
+
 import UIKit
+import Foundation
 
-class ViewController: UIViewController {
 
+
+class WeatherViewController: UIViewController {
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
     }
-
-
 }
-
